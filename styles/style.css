@@ -65,7 +65,6 @@
     width: 1100px;
     height: 355px;
     padding: 165px 50px 237px;
-    position: absolute;
     font-family: Raleway, serif;
     color:white;
     font-size: 100px;
@@ -246,7 +245,7 @@
     gap: 70px;
     padding: 370px 71px 180px;
     max-width: 1000px;
-    max-height: 600px; 
+    max-height: 600px;
 }
 
 .about_logo {
@@ -265,9 +264,6 @@
     height: auto;
     padding-bottom: 1px;
   }
-
-.about_text {
-}
 
   .about_heading {
     text-transform: uppercase;
