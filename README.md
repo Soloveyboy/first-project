@@ -1,1 +1,1 @@
-https://github.com/Soloveyboy/first-project.git
+https://github.com/Soloveyboy/ono-tebe-nado.git
